@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "El Panecillo",
+    "lat": -0.231701,
+    "lng": -78.519668
+  },
+  {
+    "nombre": "La Toglla",
+    "lat": -0.24409,
+    "lng": -78.442489
+  },
+  {
+    "nombre": " Chilibulo",
+    "lat": -0.247395,
+    "lng": -78.569078
+  },
+  {
+    "nombre": "Cerro Auqui",
+    "lat": -0.201284,
+    "lng": -78.474415
+  },
+  {
+    "nombre": "Perla Quiteña",
+    "lat": -0.195164,
+    "lng": -78.459588
+  },
+  {
+    "nombre": "Parque Guangüiltahua",
+    "lat": -0.188753,
+    "lng": -78.463973
+  },
+  {
+    "nombre": " San Enrique de Velasco",
+    "lat": -0.099356,
+    "lng": -78.514614
+  },
+  {
+    "nombre": "Carapungo",
+    "lat": -0.127481,
+    "lng": -78.416482
+  },
+  {
+    "nombre": "Guamani Alto (Calipiedra)",
+    "lat": -0.342603,
+    "lng": -78.589507
+  },
+  {
+    "nombre": "Rumiloma",
+    "lat": -0.257477,
+    "lng": -78.438324
+  }
+]
